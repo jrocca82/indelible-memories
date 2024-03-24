@@ -1,4 +1,4 @@
-import { Flex, Image, Text } from "@chakra-ui/react";
+import { Flex, Heading, Image, Text } from "@chakra-ui/react";
 
 const MainHeader = () => (
 	<Flex
@@ -7,7 +7,7 @@ const MainHeader = () => (
 		justify="center"
 		flexDir="column"
 	>
-		<Text mt="50px" fontSize="24px">Indelible Memories: Legacy Worth Preserving</Text>
+		<Heading mt="50px" fontSize="24px">Indelible Memories: Legacy Worth Preserving</Heading>
 		<Image
 			src="logo.png"
 			boxSize="300px"
