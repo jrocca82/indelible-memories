@@ -7,7 +7,7 @@ const MainHeader = () => (
 		justify="center"
 		flexDir="column"
 	>
-		<Heading mt="50px" fontSize="24px">Indelible Memories: Legacy Worth Preserving</Heading>
+		<Heading mt="50px" fontSize="48px">Indelible Memories: Legacy Worth Preserving</Heading>
 		<Image
 			src="logo.png"
 			boxSize="300px"
